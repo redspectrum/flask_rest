@@ -1,1 +1,17 @@
-# flask_rest
+# My awesome REST API
+
+## Installation
+
+```
+pip install Flask
+python app.py
+```
+
+## Description
+
+
+
+## Implementation
+
+This project is implemented usinf Flask, and is a REST API for a store.
+
